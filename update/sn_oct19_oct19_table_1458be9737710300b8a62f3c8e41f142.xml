@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sn_oct19_oct19_table">
+    <sn_oct19_oct19_table action="INSERT_OR_UPDATE">
+        <oct19_column>blah</oct19_column>
+        <sys_class_name>sn_oct19_oct19_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-19 17:49:18</sys_created_on>
+        <sys_id>1458be9737710300b8a62f3c8e41f142</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="oct19" source="sn_oct19">d2a7f25737710300b8a62f3c8e41f1f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="oct19">d2a7f25737710300b8a62f3c8e41f1f9</sys_scope>
+        <sys_update_name>sn_oct19_oct19_table_1458be9737710300b8a62f3c8e41f142</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-19 17:49:18</sys_updated_on>
+    </sn_oct19_oct19_table>
+</record_update>

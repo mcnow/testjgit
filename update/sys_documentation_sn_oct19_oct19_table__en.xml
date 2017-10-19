@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="oct19_table" language="en" table="sn_oct19_oct19_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>oct19_table</label>
+            <language>en</language>
+            <name>sn_oct19_oct19_table</name>
+            <plural>oct19_tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 17:47:35</sys_created_on>
+            <sys_id>3fe7ba9737710300b8a62f3c8e41f187</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>oct19_table</sys_name>
+            <sys_package display_value="oct19" source="sn_oct19">d2a7f25737710300b8a62f3c8e41f1f9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="oct19">d2a7f25737710300b8a62f3c8e41f1f9</sys_scope>
+            <sys_update_name>sys_documentation_sn_oct19_oct19_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 17:47:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="oct19_table" max_length="40" name="sn_oct19_oct19_table" type="collection">
+        <element label="Oct19 column" max_length="40" name="oct19_column" type="string"/>
+    </element>
+</database>
